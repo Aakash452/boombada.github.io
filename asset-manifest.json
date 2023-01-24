@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boombada.github.io/static/css/main.10b3e53d.css",
+    "main.js": "/boombada.github.io/static/js/main.8c5d950d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/boombada.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/boombada.github.io/index.html",
+    "main.10b3e53d.css.map": "/boombada.github.io/static/css/main.10b3e53d.css.map",
+    "main.8c5d950d.js.map": "/boombada.github.io/static/js/main.8c5d950d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/boombada.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b3e53d.css",
+    "static/js/main.8c5d950d.js"
+  ]
+}
